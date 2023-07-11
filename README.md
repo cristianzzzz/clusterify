@@ -2,6 +2,16 @@
 
 ![Clusterify_Logo](https://github.com/cristianzzzz/clusterify/blob/adc0167c2edc95ee3427b3b6ffa8a38930afb23f/logo.png)
 
+![Python](https://forthebadge.com/images/badges/made-with-python.svg)
+![Love](https://forthebadge.com/images/badges/built-with-love.svg)
+
+
+![]()
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 <h1 align="center">
   <br>
   CLUSTERIFY
@@ -9,7 +19,6 @@
 </h1>
 
 <h4 align="center">A clustering and classification app built on top of <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI</a>.</h4>
-
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
