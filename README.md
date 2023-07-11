@@ -21,10 +21,11 @@
 <h4 align="center">A clustering and classification app built on top of <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI</a>.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#information">Information</a> •
-  <a href="#documentation">Documentation</a> •
-  <a href="#how-to-use">How To Use</a> 
+  <a href="#key-features-">Key Features</a> •
+  <a href="#information-">Information</a> •
+  <a href="#requirements-">Requirements</a> •
+  <a href="#documentation-">Documentation</a> •
+  <a href="#how-to-use-">How To Use</a> 
 </p>
 
 ## About 📕
